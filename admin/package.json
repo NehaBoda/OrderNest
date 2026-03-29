@@ -1,12 +1,11 @@
 {
- "engines": { "node": "20.x" },
   "name": "admin",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "npx vite build",
+    "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
   },
