@@ -1,0 +1,3 @@
+Developed a responsive MERN stack web application for online food delivery with filter functionality to enhance user experience and streamline food ordering ,restaurant management , delivery services and integrated admin panel for operation control .
+Utilized reusable components, React states, and hooks for dynamic UI and efficient state management and incorporated error handling. Implemented JWT authentication, password hashing and session management.
+Implemented REST API integration for seamless backend communication and database connections. Integrated Stripe Payment Gateway using the Stripe API key to securely process transactions.
