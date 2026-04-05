@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
 
 const App = () => {
 
-  const url="http://localhost:4000"
+  const url="https://ordernest.onrender.com"
 
   return (
     <div>
