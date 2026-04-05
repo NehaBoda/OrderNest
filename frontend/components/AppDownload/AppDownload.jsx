@@ -1,4 +1,3 @@
-import React from 'react'
 import './AppDownload.css'
 import { assets } from '../../src/assets/frontend_assets/assets'
 
